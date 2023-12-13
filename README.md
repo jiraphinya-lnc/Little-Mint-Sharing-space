@@ -6,7 +6,7 @@
 
 
 ## All Sharing-space หากคุณต้องการ หรือ กำลังหาอยู่  <a id="a"></a>
-- <a href="https://github.com/ai-jiraphinya">Exp. Clone<a/> -  landing page   website เริ่มต้นเรียนรู้ .html.css.js 150 ชุด ตัวอย่าง มองหาไฟล์**.rar**
+- <a href="https://github.com/ai-jiraphinya">Exp. Clone<a/> -  landing page   website เริ่มต้นเรียนรู้ .html.css.js 150 ชุด ตัวอย่าง มองหาไฟล์ **.rar**
 - <a href="https://github.com/ai-jiraphinya/Art-United">Art United<a/> - A full stack modern Art Gallary web application
 - <a href="https://github.com/ai-jiraphinya/Admin-Dashboard">Admin Dashboard<a/> - Responsive frontend admin dashboard
 - <a href="https://github.com/ai-jiraphinya/Algorithm-Visualizer">Algorithm Visualizer<a/> - Algorithm Visualizer helps users to understand the algorithms in a more visual and interactive way 🤖 👨‍💻
